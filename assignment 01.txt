@@ -1,0 +1,12 @@
+term = int(input("Enter the Fibonacci series last number: "))
+num1,num2 = 0,1
+
+print("Fibonacci series: ",num2,end=" ")
+for i in range(2,term):
+    num3=num1+num2
+    num1=num2
+    num2=num3
+    print(num3,end=" ")
+    if num3>=50:
+        break
+    print()

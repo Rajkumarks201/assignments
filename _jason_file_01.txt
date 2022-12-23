@@ -1,0 +1,48 @@
+{
+   "Empolyees" : [
+
+   {
+
+    "employee name":"Rajkumar",
+    "DOB":"03/05/1995",
+    "Height":"160cm",
+    "city":"hyderadad",
+    "State":"Telangana",
+
+
+   },
+   {
+    "employee name":"Dinesh",
+    "DOB":"02/10/1996",
+    "Height":"165cm",
+    "city":Warangal",
+    "State":"Telangana"
+
+
+   },
+   {
+
+   "employee name":"shiva prasad",
+   "DOB":"24/11/1999",
+   "Height":"158cm",
+   "city":"kazipet",
+   "State":"Telangana",
+
+   },
+
+   {
+    "employee name":"thirupathi"
+    "DOB":05/14/1992",
+    "Height":165cm",
+    "city":"warhanapet",
+    "State":"Telangana"
+   },
+
+   {
+
+    "employee name":vinaykumar",
+    "DOB":"26/05/1994",
+    "Height":"160cm",
+    "city":"karimnagar",
+    "State":"Telangana"}]}
+
